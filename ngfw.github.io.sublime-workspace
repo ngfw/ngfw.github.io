@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subs",
+				"Subscribe"
+			],
+			[
+				"selected",
+				"selected_instance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"phpfmt: format now"
+			],
+			[
+				"javaS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Projects/Stack.sh/stack.sh/resources/views/home.blade.php",
+		"/C/Projects/Stack.sh/stack.sh/package.json",
+		"/C/Projects/Stack.sh/stack.sh/public/js/app.js",
+		"/C/Projects/Stack.sh/stack.sh/app/Team.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Providers/EventServiceProvider.php",
+		"/C/Projects/Stack.sh/stack.sh/routes/api.php",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/js/components/bootstrap.js",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/js/components/Grid/locations.vue",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/js/components/Home/hosts_listing.vue",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/js/components/Grid/grid.js",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/js/components/Addon/AddonSubscriptions.vue",
+		"/C/Projects/Stack.sh/stack.sh/resources/views/grid.blade.php",
+		"/C/Projects/Stack.sh/stack.sh/README.md",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Controllers/APIController.php",
+		"/C/Projects/Stack.sh/stack.sh/spark/src/Listeners/Teams/UpdateTeamSubscriptionQuantity.php",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/sass/app.scss",
+		"/C/Projects/Stack.sh/stack.sh/resources/assets/js/components/Home/new_instances.vue",
+		"/C/Projects/Stack.sh/stack.sh/public/css/app-rtl.css",
+		"/C/Projects/Stack.sh/stack.sh/app/Cassa.php",
+		"/C/Users/NG/.hyper.js",
+		"/C/Users/NG/.ssh/google_compute_engine.pub",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Middleware/CheckTimezone.php",
+		"/C/Projects/Stack.sh/stack.sh/Server/Server.php",
+		"/C/Projects/Stack.sh/stack.sh/.env",
+		"/C/Projects/Stack.sh/stack.sh/database/migrations/2018_11_10_174141_add_timezone_to_users_table.php",
+		"/C/Projects/Stack.sh/stack.sh/app/User.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Providers/SparkServiceProvider.php",
+		"/C/Projects/Stack.sh/stack.sh/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php",
+		"/C/Projects/Stack.sh/stack.sh/spark/src/User.php",
+		"/C/Projects/Stack.sh/stack.sh/spark/src/CanJoinTeams.php",
+		"/C/Projects/Stack.sh/stack.sh/spark/src/Repositories/UserRepository.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Controllers/HomeController.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Controllers/APIController_not_working_time.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Controllers/ApikeyController.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Controllers/InstanceController.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Kernel.php",
+		"/C/Projects/Stack.sh/stack.sh/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Projects/Stack.sh/stack.sh/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/C/Projects/Stack.sh/sftp-config.json",
+		"/C/Projects/Stack.sh/stack.sh/spark/install-stubs/app/User.php",
+		"/C/Projects/Tests/test.php",
+		"/C/Users/NG/Documents/Rainmeter/Skins/illustro/Disk/2 Disks.ini",
+		"/C/Users/NG/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/NG/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/Users/NG/Documents/Rainmeter/Skins/Illustrated/Weather Forecast/Weather Forecast.ini",
+		"/C/Program Files (x86)/Stack.sh/Monitor/log.txt",
+		"/C/Program Files (x86)/Stack.sh/Monitor/pythonOutput.txt",
+		"/C/Program Files (x86)/Stack.sh/Monitor/StackMonitorService.deps.json",
+		"/C/Program Files (x86)/Stack.sh/Monitor/StackScript.py",
+		"/C/Users/NG/Documents/Rainmeter/Skins/Evasion/System/System.ini"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p.plan",
+			"(p.plan",
+			">$10.00",
+			"'$10.00'",
+			"'10GB'",
+			"instances",
+			"disabled",
+			"d-flex justify-content-between align-items-center",
+			"badge-pill",
+			"badge badge-primary badge-pill",
+			"align-items-center",
+			"<i class=\"fas fa-shopping-cart\"></i>",
+			"primary btn-block",
+			"btn-primary",
+			"confi",
+			"upgrade",
+			"currentSort",
+			"this.$parent.",
+			"v-bind",
+			"v-if",
+			"<div col-md-4>",
+			"jsvscript",
+			"0);\" ",
+			"purchase_addon",
+			"RatingComponent",
+			"confirmBlock",
+			"get_instances",
+			"Config",
+			"DEFAULT_ADDON_NAME",
+			"Config",
+			"addon",
+			"modal-confirm-addon-cancellation",
+			"confirmCancellation",
+			"cancell",
+			"addon",
+			"addonPlans",
+			"plan.addon",
+			"plan",
+			"Interval Selector Button Group ",
+			"addonSubscriptions",
+			"addon-subscriptions",
+			"billableType",
+			"provider_plan",
+			"addons/subscriptions",
+			"addon",
+			"subscriptions",
+			"addonPlans",
+			"Add-on Subscriptions",
+			"plan",
+			"addon",
+			"Add-on Subscriptions",
+			" Add-on Subscriptions\n Add-on Subscriptions\n Add-on Subscriptions\n Add-on Subscriptions\n Add-on Subscriptions\n Add-on Subscriptions\nAdd-on Subscription",
+			"\\s",
+			"/ /,''",
+			"/./g",
+			"split('/',0)",
+			"\"/\"",
+			"sortable.el.id",
+			"getAttribute('data-id')",
+			"$el.",
+			"inserted",
+			"sortable",
+			"fire",
+			"model",
+			"group",
+			"options",
+			"leads",
+			"locations",
+			"getInstances",
+			"block",
+			"unsubscribe",
+			"block",
+			"blockInstance",
+			"block",
+			"getInstances",
+			"sort",
+			"currentSort",
+			"currentSortDir",
+			"sortedInstances",
+			"logo-dange",
+			"logo-danger",
+			"logo-danger::before",
+			"new_instances",
+			"app.timezone",
+			"new \\Cassandra\\Date(",
+			"echo",
+			"CASSANDRA",
+			"date(\"Y-m-d\", $row['date']->seconds()) . \" \" . $k . \":00:00\"",
+			"$date",
+			"timeline_date",
+			"<?",
+			"timeline_date",
+			"$date . \" \" . $k . \":00:00\"",
+			"date",
+			"dd",
+			"\\Illuminate\\Support\\Facades",
+			"time",
+			"Spark::trialDays()",
+			"createUsersWith",
+			"current_team_id",
+			"redirectTo",
+			"RegistersUsers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "",
+	"project": "ngfw.github.io.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 396.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
